@@ -11,7 +11,15 @@
   .shot-item img{
     height: 200px;
   }
+  .Callstranslator{
+    margin-left: auto;
+  }
+  .abyl{
+  margin-right: auto;
+  }
+  
 }
+  
 
 /* tablets */
 @media (max-width: 991px) {
